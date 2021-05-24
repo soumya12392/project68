@@ -13,8 +13,9 @@ body {
     width: 100%;
 }
 
-.contact_1 h3 {
+.contact_1 h5 {
     display: inline;
+    font-size: 20px;
 }
 
 .contact_1 a {
@@ -50,6 +51,6 @@ marquee {
 }
 
 #principal_img {
-    height: 450px;
-    width: 450px;
+    height: 250px;
+    width: 250px;
 }
