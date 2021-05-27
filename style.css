@@ -50,11 +50,10 @@ marquee {
     width: 800px;
 }
 
-#principal_img {
-    height: 300px;
-    width: 300px;
+.principal {
+    font-family: 'Mate SC', serif;
 }
 
-h4 {
-    font-family: 'Mate SC', serif;
+.contact_1 p {
+    margin-left: 210px;
 }
